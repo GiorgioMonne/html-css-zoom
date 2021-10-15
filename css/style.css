@@ -67,6 +67,20 @@
     border: 1px solid grey;
     background-image: url(https://images.everyeye.it/img-notizie/ecco-persone-futuro-terra-v3-497024-1280x720.jpg);
     background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.nomi{
+    color: white;
+    display: flex;
+    align-items: flex-end;
+}
+
+.nomi span{
+    height: 30px;
+    padding: 5px 5px;
+    background-color: rgba(0, 0, 0, 0.632);
 }
 
 .speaker{
