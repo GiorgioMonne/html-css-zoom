@@ -197,13 +197,13 @@
 }
 
 .account {
-    background-color: #53ae98;
-    padding: 17px;
+    background-color: rgb(81, 81, 81);
+    padding: 19px;
 }
 
 .account span {
-    color: white;
-    font-size: 25px;
+    color: rgb(235, 83, 83);
+    font-size: 20px;
 }
 
 
